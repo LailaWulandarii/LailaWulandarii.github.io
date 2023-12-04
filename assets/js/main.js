@@ -120,12 +120,11 @@ const sr = ScrollReveal({
 })
 
 
-sr.reveal(`.home__data, .home__social-link, .home__info,
+sr.reveal(`.home__data, .home__info,
            .photos__container,
            .experience__data, .experience__overlay,
            .place__card,
-           .sponsor__content,
-           .footer__data, .footer__rights`,{
+           .section__title`,{
     origin: 'top',
     interval: 100,
 })
