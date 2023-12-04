@@ -232,6 +232,7 @@ input {
 /* show menu */
 .show-menu {
   right: 0;
+  background-color: var(--light-grey-third);
 }
 
 /* Change background header */
